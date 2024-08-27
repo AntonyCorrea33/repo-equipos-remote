@@ -1,4 +1,4 @@
 # repo-equipos-remote
 Repositorio de equipos
 geobrutti
-AntonyCorrea
+AntonyCorrea33
